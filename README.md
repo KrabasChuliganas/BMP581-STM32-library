@@ -1,7 +1,7 @@
 # BMP581-driver
 This repository contains the driver for the BMP581 sensor, designed to facilitate easy integration into STM32 projects. The BMP581 is a high-precision, low-power 24 bit digital barometer that offers superior accuracy and performance. This driver enables the sensor to communicate with a microcontroller only via I2C communication protocol.
 
-###Features
+### Features
 
     Functions for reading temperature and pressure data
     Low power consumption mode support
