@@ -26,7 +26,3 @@ To use this driver, initialize the sensor and then read the temperature and pres
     float temperature, pressure;
     BMP5_SaveConvData(&sensor);
     BMP5_GetConvData(&sensor, &pressure, &temperature);
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
